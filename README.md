@@ -35,5 +35,5 @@
 ## Maintenance
 
 # 參考網址
-[1]: <https://gohugo.io/> "Hugo 官網"
-[2]: <https://github.com/gohugoio/hugo> "Hugo github"
+[1]: https://gohugo.io/ "Hugo 官網"
+[2]: https://github.com/gohugoio/hugo "Hugo github"
