@@ -1,5 +1,5 @@
 # hugo-book
-  我使用 Hugo 的心得，第一步是翻譯，但是並非照官網翻，所以請閱讀[Hugo 官網][Hugo 官網]
+  我使用 Hugo 的心得，第一步是翻譯，但是並非照官網翻，所以請閱讀[Hugo 官網][1]
 
 # 常用功能
 ## 內容組織
@@ -35,5 +35,5 @@
 ## Maintenance
 
 # 參考網址
-[Hugo 官網]: <https://gohugo.io/> "Hugo 官網"
-[Hugo github]: <https://github.com/gohugoio/hugo> "Hugo github"
+[1]: <https://gohugo.io/> "Hugo 官網"
+[2]: <https://github.com/gohugoio/hugo> "Hugo github"
